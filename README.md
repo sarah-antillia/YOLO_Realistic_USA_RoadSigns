@@ -3,6 +3,7 @@ This is a USA RoadSigns train and valid dataset annotated by YOLO format.
 It contains 86 classes, and each image size is 512x512.
 
 
+This dataset is created based on <a href="https://en.wikipedia.org/wiki/Road_signs_in_the_United_States">Road signs in the United States</a>.
 # Sample Images
 
 <table>
